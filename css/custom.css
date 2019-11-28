@@ -1,0 +1,19 @@
+#template{
+    width: 10px;
+    margin-inline: 10px;
+
+
+
+}
+.container1{
+    float: right;
+    margin: -9999px;
+}
+.container1 .card{
+    height: 600px !important;
+    width: initial;
+}
+.card-body{
+   border: 2px solid black;
+    background-color: burlywood;
+}
